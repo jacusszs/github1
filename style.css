@@ -1,7 +1,11 @@
 body{
     background-color: red;
 }
-div{
+p{
     width: 250px;
-    border: solid;  
+    border: solid;
+    text-align: center;
+    border: 1px solid black;
+
 }
+    
